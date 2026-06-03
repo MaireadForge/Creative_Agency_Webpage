@@ -36,7 +36,7 @@ export default function Mission() {
             ))}
           </div>
 
-          <a href="#services" className="read-more-link">
+          <a href="#services" className="read-more-link group">
             <span className="read-more-line" />
             Read more about us
           </a>

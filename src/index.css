@@ -50,14 +50,14 @@
   }
 
   .read-more-link {
-    @apply inline-flex items-center gap-3 text-sm font-semibold text-gray-900 group;
+    @apply inline-flex items-center gap-3 text-sm font-semibold text-gray-900;
   }
   .read-more-line {
     @apply w-16 h-px bg-gray-900 transition-all duration-300 group-hover:w-24;
   }
 
   .service-row {
-    @apply grid grid-cols-12 items-center py-7 border-t border-gray-200 gap-4 group cursor-pointer;
+    @apply grid grid-cols-12 items-center py-7 border-t border-gray-200 gap-4 cursor-pointer;
   }
 
   .avatar-circle {

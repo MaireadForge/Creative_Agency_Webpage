@@ -59,7 +59,7 @@ export default function Capabilities() {
               ))}
             </div>
 
-            <a href="#contact" className="read-more-link">
+            <a href="#contact" className="read-more-link group">
               <span className="read-more-line" />
               Read more
             </a>

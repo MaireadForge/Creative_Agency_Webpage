@@ -72,7 +72,7 @@ export default function Hero() {
           <a href="#services" className="bg-gray-900 text-white font-semibold px-8 py-3.5 rounded-full hover:bg-emerald-600 transition-all duration-300 shadow-lg hover:shadow-emerald-200">
             Explore our work
           </a>
-          <a href="#about" className="read-more-link text-gray-700">
+          <a href="#about" className="read-more-link group text-gray-700">
             <span className="read-more-line" />
             Learn more
           </a>
